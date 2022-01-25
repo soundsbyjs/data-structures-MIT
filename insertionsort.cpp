@@ -1,3 +1,5 @@
+// the first algorithm, an insertion sort, from section 1.1
+
 #include <iostream>
 #include <stdlib.h>
 #include <array>
